@@ -1,0 +1,14 @@
+.form-container {
+  margin-top: 30px;
+  padding: 40px 40px;
+  background-color: #fff;
+  color: #000;
+  width: 400px;
+}
+
+select {
+  margin: 14px 0 10px 0;
+  padding: 10px 10px;
+  border: 1px solid #888;
+  width: 375px;
+}

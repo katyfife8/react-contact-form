@@ -1,0 +1,22 @@
+.input-field {
+  margin-top: 15px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+input {
+  margin: 14px 0 10px 0;
+  padding: 10px 10px;
+  border: 1px solid #888;
+  width: 88%;
+}
+
+label {
+  text-transform: uppercase;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.input-error {
+  color: #ff0a54;
+}
